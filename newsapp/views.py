@@ -3,7 +3,7 @@ from django.shortcuts import render
 
 
 def index(request):
-    r = requests.get("https://api.mediastack.com/v1/news?access_key=YOUR_ACCESS_KEY&countries=ru")
+    r = requests.get("http://api.mediastack.com/v1/news?access_key=805173b20a70e695012f67f73b75a0f9&countries=ru")
     res = r.json()
     data = res['data']
     title = []
