@@ -2,7 +2,7 @@
 
 A News Api Project made with the use of Mediastack API.
 
-News country source set to Russia.
+News source country set to Russia.
 
 Frontend: CSS, Bootstrap 5.2.
 
