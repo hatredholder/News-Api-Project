@@ -2,8 +2,6 @@
 
 A News Api Project made with the use of Mediastack API.
 
-News source country set to Russia.
-
 Frontend: CSS, Bootstrap 5.2.
 
 Backend: Django 4.0.
