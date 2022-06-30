@@ -1,8 +1,6 @@
 # News Api Project
 
-A News Api Project made with the use of Mediastack API.
-
-(https://mediastack.com/)
+A News Api Project made with the use of [Mediastack API](https://mediastack.com/).
 
 No Django models were used.
 
